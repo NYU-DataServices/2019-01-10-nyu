@@ -52,6 +52,12 @@ eventbrite:                    # optional: alphanumeric key for Eventbrite regis
 </iframe>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+
+<p>
+  Please register through the <a href="https://nyu.libcal.com/event/4294719" target="_blank">NYU event page</a>.
+</p>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
