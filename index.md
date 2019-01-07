@@ -15,7 +15,7 @@ enddate: 2019-01-11            # machine-readable end date for the workshop in Y
 instructor:                    # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
   - Sarah Brown
   - Ian Carroll
-helper:                        # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Nicholas Wolf", "Heiko Mueller", "Casey Hampsey"]  # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email:                         # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
   - 'Emily Mathis Corona <emily.mathis@nyu.edu>'
   - 'Vicky Steeves <vicky.steeves@nyu.edu>'
